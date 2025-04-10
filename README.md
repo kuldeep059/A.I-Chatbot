@@ -52,9 +52,9 @@ This chatbot is designed to answer common questions related to tech services off
     ```bash
     python app.py
     ```
-    This will start the Flask server, usually on `http://127.0.0.1:5000/`.
+    This will start the Flask server, usually on `http://127.0.0.1:5001/`.
 
-4.  **Open `index.html` in your web browser:** Navigate to the location of the `index.html` file in your file system and open it with your browser. Alternatively, if you have the root route configured in `app.py`, you can go to `http://127.0.0.1:5000/` in your browser.
+4.  **Open `index.html` in your web browser:** Navigate to the location of the `index.html` file in your file system and open it with your browser. Alternatively, if you have the root route configured in `app.py`, you can go to `http://127.0.0.1:5001/` in your browser.
 
 5.  **Interact with the chatbot:** Type your questions in the input field and click "Send". The chatbot's responses will appear in the chat window.
 
