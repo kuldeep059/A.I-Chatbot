@@ -14,7 +14,7 @@ This chatbot is designed to answer common questions related to tech services off
 
 * ## Screenshot
 
-![Chatbot Interface](path/to/your/screenshot.png)
+![Chatbot Interface](https://github.com/kuldeep059/A.I-Chatbot/blob/main/Project%20Image.png)
 
 *A screenshot of the chatbot interface in action.*
 
