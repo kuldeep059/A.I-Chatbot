@@ -12,6 +12,13 @@ This chatbot is designed to answer common questions related to tech services off
 * **`app.py`**: A Flask application that exposes the chatbot as an API endpoint (`/chat`).
 * **`index.html`**: A simple HTML file providing a user interface to interact with the chatbot via a web browser.
 
+* ## Screenshot
+
+![Chatbot Interface](path/to/your/screenshot.png)
+
+*A screenshot of the chatbot interface in action.*
+
+
 ## Getting Started
 
 ### Prerequisites
