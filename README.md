@@ -55,29 +55,6 @@ This chatbot is designed to answer common questions related to tech services off
 
 To host this chatbot online, you'll need to deploy the frontend and backend separately.
 
-### Frontend (GitHub Pages - Static Hosting)
-
-1.  Ensure your `index.html`, CSS (if any), and JavaScript files are in your GitHub repository.
-2.  Go to your repository on GitHub.
-3.  Navigate to **Settings** -> **Pages**.
-4.  Under "Source", select the branch you want to use for GitHub Pages (e.g., `main`). You can also choose a specific folder like `/docs` if your frontend files are there.
-5.  Click **Save**. GitHub Pages will build and deploy your static files, and you'll get a URL (e.g., `https://<your_username>.github.io/<your_repository_name>/`).
-
-### Backend (Python Hosting Platform)
-
-You'll need a platform that supports running Python applications. Some popular choices include:
-
-* **Heroku:**
-    * Create a `requirements.txt` file listing your dependencies (Flask, NLTK).
-    * Create a `Procfile` to specify how to run your Flask app (e.g., `web: gunicorn app:app`).
-    * Install the Heroku CLI and follow their deployment instructions.
-* **PythonAnywhere:**
-    * Create an account and upload your project files.
-    * Configure a web app with your Flask application.
-* **Other platforms:** Render, AWS Elastic Beanstalk, Google Cloud App Engine, Azure App Service.
-
-**Remember to update the `fetch` URL in your `index.html` JavaScript to point to the API endpoint of your deployed Flask backend.**
-
 ## Contributing
 
 Feel free to contribute to this project by submitting pull requests with bug fixes, improvements, or new features.
