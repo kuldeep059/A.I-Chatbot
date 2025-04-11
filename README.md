@@ -65,11 +65,3 @@ To host this chatbot online, you'll need to deploy the frontend and backend sepa
 ## Contributing
 
 Feel free to contribute to this project by submitting pull requests with bug fixes, improvements, or new features.
-
-## License
-
-[Your License Here (e.g., MIT License)]
-
----
-
-**Note:** Replace `<repository_url>` with the actual URL of your GitHub repository and `[Your License Here (e.g., MIT License)]` with the appropriate license information if you choose to include one. You can also add more details about the chatbot's functionality, limitations, or future enhancements.
